@@ -1,0 +1,7 @@
+{
+  "name": "Gemini Math Mentor - THPTQG 2026",
+  "description": "An AI-powered math study companion for Vietnamese Grade 12 students, focusing on error analysis, active recall, and optimized study planning.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
